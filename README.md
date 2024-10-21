@@ -22,9 +22,9 @@ Si no eres programador, puedes descargar el ejecutable [aquí](ENLACE_AL_EJECUTA
 >![image](https://github.com/user-attachments/assets/65ede6a7-107c-4a76-a403-751e9cacd5f7)
 >
 > - Coloca el siguiente código
-```
-2055492159
-```
+> ```
+> 2055492159
+> ```
 
 
 
