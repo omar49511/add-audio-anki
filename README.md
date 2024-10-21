@@ -17,7 +17,7 @@ Si no eres programador, puedes descargar el ejecutable [aquí](https://github.co
 >   
 >![image](https://github.com/user-attachments/assets/c88658ee-99ba-45bb-811f-4aec88f6b02b)
 >
-> #### selecciona descargar complementos y se abrira una ventana como esta.
+> #### selecciona descargar complementos y se abrira una ventana.
 >   
 >![image](https://github.com/user-attachments/assets/65ede6a7-107c-4a76-a403-751e9cacd5f7)
 >
