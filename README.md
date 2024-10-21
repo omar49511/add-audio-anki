@@ -13,12 +13,11 @@ Si no eres programador, puedes descargar el ejecutable [aquí](ENLACE_AL_EJECUTA
 >[!NOTE]
 > Abre tu anki y ve a la seccion de Herramientas.
 > ![image](https://github.com/user-attachments/assets/2fd48752-348a-4fe8-81b1-0882154becf9)
->selecciona complementos.
+> - selecciona complementos.
 >![image](https://github.com/user-attachments/assets/c88658ee-99ba-45bb-811f-4aec88f6b02b)
->selecciona descargar complementos y se abrira una ventana como esta.
+> - selecciona descargar complementos y se abrira una ventana como esta.
 >![image](https://github.com/user-attachments/assets/65ede6a7-107c-4a76-a403-751e9cacd5f7)
->Coloca el siguiente código
->`2055492159`
+> - Coloca el siguiente código ```2055492159```
 
 
 
