@@ -11,8 +11,8 @@ Esta aplicación permite descargar audio desde Google Translate y agregarlo a ta
 
 Si no eres programador, puedes descargar el ejecutable [aquí](ENLACE_AL_EJECUTABLE) y usarlo solo sigue los siguientes pasos.
 
-Abre tu anki y ve a la seccion de Herramientas
-![image](https://github.com/user-attachments/assets/2fd48752-348a-4fe8-81b1-0882154becf9)
+> Abre tu anki y ve a la seccion de Herramientas
+> ![image](https://github.com/user-attachments/assets/2fd48752-348a-4fe8-81b1-0882154becf9)
 
 
 Si eres programador y deseas modificar el código, asegúrate de tener Python instalado y la biblioteca `requests`:
