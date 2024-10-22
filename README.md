@@ -27,15 +27,12 @@ Puedes descargar el ejecutable [aquí](https://github.com/omar49511/add-audio-an
 > 2055492159
 > ```
 
+## Capturas
+
 ![image](https://github.com/user-attachments/assets/43244911-d16c-46e1-aea2-960bfb9f6205)
 ![image](https://github.com/user-attachments/assets/f55161c4-a6a8-48ba-b52f-423f41429a43)
 ![image](https://github.com/user-attachments/assets/94e1a08e-39fa-49ab-a9c3-24ef02ee0ca1)
-![image](https://github.com/user-attachments/assets/6bf8ab92-ae40-44b9-935f-cd9ae76b4720)
 ![image](https://github.com/user-attachments/assets/3270d9d3-78d0-480f-88e2-5219693c90e2)
-
-
-
-
 
 Si eres programador y deseas modificar el código, asegúrate de tener Python instalado y la biblioteca `requests`:
 
