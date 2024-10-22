@@ -9,7 +9,8 @@ Esta aplicación permite descargar audio desde Google Translate y agregarlo a ta
 
 ## Instalación
 
-Puedes descargar el ejecutable [aquí](https://github.com/omar49511/add-audio-anki/releases/download/v1.0-beta/DownloadFrasesEnglish.exe), y para usarlo solo tienes que descargar anki connect siguiendo estos pasos:
+Puedes descargar el ejecutable [aquí](https://github.com/omar49511/add-audio-anki/releases/download/v1.1.0/DownloadFrasesEnglish.exe), y para usarlo solo tienes que descargar anki connect siguiendo estos pasos:
+
 >[!NOTE]
 > #### Abre tu anki y ve a la seccion de Herramientas.
 > ![image](https://github.com/user-attachments/assets/2fd48752-348a-4fe8-81b1-0882154becf9)
